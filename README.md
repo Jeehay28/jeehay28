@@ -37,7 +37,8 @@ My decision may sound unexpected, but it is like simply changing a role. I was a
 ##### :file_folder: RPA_Uipath ![commit-activity per week](https://img.shields.io/github/commit-activity/w/Jeehay28/RPA_Uipath) ![GitHub last commit](https://img.shields.io/github/last-commit/Jeehay28/RPA_Uipath)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeehay28&theme=blue-green) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeehay28&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeehay28&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeehay28&show_icons=true)
+
 
 #
 ### :heartpulse: Personal Interests
