@@ -18,16 +18,25 @@ My decision may sound unexpected, but it is like simply changing a role. I was a
 ### :books: What she's learned in the K-digital Bootcamp:
 #### Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![R](https://img.shields.io/badge/R-00000F?style=for-the-badge&logo=R&logoColor=white) 
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### IDE
+
+#### RPA (Robotic Process Automation) Tool
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white) 
+
+#### RDBMS (Relational Database Management System)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+
+
+#### IDE (Integrated Development Environment)
 ![jupyter-notebook](https://img.shields.io/badge/Jupyter_Notebook-929591?style=for-the-badge&logo=jupyter&color=525252)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+#### Text Editor
+![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 #
 ### :clap: Commit Activity
@@ -48,7 +57,7 @@ My decision may sound unexpected, but it is like simply changing a role. I was a
 ![Alison](https://img.shields.io/badge/Alison-323949?style=for-the-badge&logo=Alison&logoColor=white)
 ![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-
+![W3Schools](https://img.shields.io/badge/W3Schools-006400?style=for-the-badge&logo=W3Schools&logoColor=white)
 
 
 ![reversal](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
