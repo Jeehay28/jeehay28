@@ -11,7 +11,7 @@ My decision may sound unexpected, but it is like simply changing a role. I was a
 
 ### :e-mail: Contact Info
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiepark528@gmail.com)](mailto:sophiepark528@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeehaypark/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeehaypark/)
 
 
 #
