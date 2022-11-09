@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Jeehay%20Park&fontSize=60&desc=Currently%20training%20to%20become%20a%20software%20engineer&descAlignY=57&animation=twinkling&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Jeehay%20Park&fontSize=60&desc=A%20Junior%20Frontend%20Developer&descAlignY=57&animation=twinkling&fontAlignY=35)
 
 
 ### :smiley: About Jeehay
@@ -40,11 +40,6 @@ My decision may sound unexpected, but it is like simply changing a role. I was a
 
 #
 ### :clap: Commit Activity
-##### :file_folder: TIL ![commit-activity per week](https://img.shields.io/github/commit-activity/w/Jeehay28/TIL) ![GitHub last commit](https://img.shields.io/github/last-commit/Jeehay28/TIL)
-##### :file_folder: Jeehay28-Python-Excercises ![commit-activity per week](https://img.shields.io/github/commit-activity/w/Jeehay28/Jeehay28-Python-Exercises) ![GitHub last commit](https://img.shields.io/github/last-commit/Jeehay28/Jeehay28-Python-Exercises)
-##### :file_folder: HTML-CSS-Source-Code ![commit-activity per week](https://img.shields.io/github/commit-activity/w/Jeehay28/HTML-CSS-Source-Code) ![GitHub last commit](https://img.shields.io/github/last-commit/Jeehay28/HTML-CSS-Source-Code)
-##### :file_folder: RPA_Uipath ![commit-activity per week](https://img.shields.io/github/commit-activity/w/Jeehay28/RPA_Uipath) ![GitHub last commit](https://img.shields.io/github/last-commit/Jeehay28/RPA_Uipath)
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeehay28&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeehay28&show_icons=true)
 
