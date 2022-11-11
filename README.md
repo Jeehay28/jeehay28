@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Jeehay%20Park&fontSize=60&desc=A%20Junior%20Frontend%20Developer&descAlignY=57&animation=twinkling&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Jeehay%20Park&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Junior%20frontend%20developer&descAlignY=70)
 
 
 ### :smiley: About Jeehay
@@ -13,20 +13,38 @@ My decision may sound unexpected, but it is like simply changing a role. I was a
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiepark528@gmail.com)](mailto:sophiepark528@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeehaypark/)
 
+### 🇰🇷 Notion Resume & Portfolio
+조금은 독특한 이력을 가진 끈기와 호기심 강한 신입 프론트엔드 개발자입니다.
+> 🔗 [박지혜](https://www.notion.so/a3fd8c22c5224f05a6b5a160a4dd1329)
+
 
 #
 ### :books: What she's learned in the K-digital Bootcamp:
-#### Language
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/R-00000F?style=for-the-badge&logo=R&logoColor=white) 
+> AI Engineer Boot Camp  |  [스마트훈련] 누구나 테크 코스 : AI 엔지니어 부트 캠프
+  > - Completed with 100% attendance(960 hrs) | 960시간 출석왕 수상
+  > - 8 projects (Python data analysis and visualization, web programming, RPA)
+  >> 1. [RPA 소개 로드맵 프로젝트](https://github.com/Jeehay28/rpa)
+  >> 2. [반응형 웹사이트 프로젝트](https://github.com/Jeehay28/4-dollar-meals)
+  >> 3. [반응형 웹 메인페이지 프로젝트](https://github.com/Jeehay28/jeehaymade1.github.io)
+  >> 4. [기획재정부 재정통계자료 작성 자동화 프로젝트](https://github.com/Jeehay28/rpa-uipath)
+  >> 5. [데이터기반문제해결 프로젝트](https://github.com/Jeehay28/design-thinking)
+  >> 6. [온라인 쇼핑몰 데이터 분석 및 대시보드 구현 프로젝트](https://github.com/Jeehay28/online-mall-data-analysis-03)
+  >> 7. [온라인 쇼핑몰 데이터 분석 및 지도 시각화 프로젝트](https://github.com/Jeehay28/online-mall-data-analysis-02)
+  >> 8. [온라인 쇼핑몰 데이터 분석 및 예측 프로젝트](https://github.com/Jeehay28/online-mall-data-analysis-01)
+
+
+#### Web Development
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+#### Data Analysis and Visualization
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/R-00000F?style=for-the-badge&logo=R&logoColor=white) 
+#### RDBMS (Relational Database Management System)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
 #### RPA (Robotic Process Automation) Tool
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white) 
-
-#### RDBMS (Relational Database Management System)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
 #### IDE (Integrated Development Environment)
@@ -43,16 +61,3 @@ My decision may sound unexpected, but it is like simply changing a role. I was a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeehay28&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeehay28&show_icons=true)
 
-
-#
-### :heartpulse: Personal Interests
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Jeehay?via=share_profile)
-[![Goodreads](https://img.shields.io/badge/Goodreads-75420e?style=for-the-badge&logo=Goodreads&logoColor=white)](https://www.goodreads.com/user/show/39862141)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/jeehaypark)
-![Alison](https://img.shields.io/badge/Alison-323949?style=for-the-badge&logo=Alison&logoColor=white)
-![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-![W3Schools](https://img.shields.io/badge/W3Schools-006400?style=for-the-badge&logo=W3Schools&logoColor=white)
-
-
-![reversal](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
