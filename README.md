@@ -8,11 +8,6 @@ I always was interested in the process of developing a website or a mobile appli
 It took many years for me to decide to start learning programing languages by myself. 
 My decision may sound unexpected, but it is like simply changing a role. I was a meeting/event planner, but now I hope to be a web/mobile app developer and ideally a software engineer for better communication.
 
-### 🔎 For Korean 
-🔗 [이력서](https://abrupt-theory-aef.notion.site/a3fd8c22c5224f05a6b5a160a4dd1329)
-🔗 [포트폴리오](https://abrupt-theory-aef.notion.site/f3f5ba6d6904415889a554886810b406?v=9f16223c254e470880cf3d26d1963776)
-🔗 [자기소개서](https://abrupt-theory-aef.notion.site/81f2fa9eb85d41de8d000d25e68eb0e8)
-
 ### :e-mail: Contact Info
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiepark528@gmail.com)](mailto:sophiepark528@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeehaypark/)
