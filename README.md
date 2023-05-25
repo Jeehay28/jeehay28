@@ -1,17 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&text=Jeehay%20Park(박지혜)&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Junior%20Frontend%20Developer&descAlignY=70) -->
 
 ### :smiley: About Jeehay
-Hi, weclome to my page. According to the **six degrees of separation**, we all are six or fewer social connections away from each other. 
-The idea led me to join the event management industry and I passionately spent 10+ years communicating with all walks of life. 
-Event/meeting management is all about communication. 
-I always was interested in the process of developing a website or a mobile application for better communication. 
-It took many years for me to decide to start learning programing languages by myself. 
-My decision may sound unexpected, but it is like simply changing a role. I was a meeting/event planner, but now I hope to be a web/mobile app developer and ideally a software engineer for better communication.
-
-### 🔎 For Korean 
-🔗 [이력서](https://abrupt-theory-aef.notion.site/a3fd8c22c5224f05a6b5a160a4dd1329)
-🔗 [포트폴리오](https://abrupt-theory-aef.notion.site/f3f5ba6d6904415889a554886810b406?v=9f16223c254e470880cf3d26d1963776)
-🔗 [자기소개서](https://abrupt-theory-aef.notion.site/81f2fa9eb85d41de8d000d25e68eb0e8)
+"Hi, welcome to my page. According to the six degrees of separation theory, we are all connected within six or fewer social connections. This idea inspired me to venture into the event management industry, where I passionately spent over 10 years engaging with people from all walks of life. Event and meeting management revolve around effective communication. During my journey, I developed a strong interest in the process of creating websites and mobile applications as means of enhancing communication. It took several years for me to make the decision to learn programming languages on my own. Although it may seem unexpected, it is simply a transition in my role. From being a meeting and event planner, I now aspire to become a web and mobile app developer and, ideally, a software engineer dedicated to improving communication."
 
 
 ### :e-mail: Contact Info
@@ -20,8 +10,7 @@ My decision may sound unexpected, but it is like simply changing a role. I was a
 
 
 #
-### :books: What she learned in the K-Digital Training Course :
-#### AI Engineer Boot Camp   |   [스마트훈련] 누구나 테크 코스 : AI 엔지니어 부트 캠프
+### AI Engineer Boot Camp   |   [스마트훈련] 누구나 테크 코스 : AI 엔지니어 부트 캠프
 - Completed with 100% attendance (960 hrs) | 960시간 출석왕 수상
 - 8 projects (Python data analysis and visualization, web programming, RPA)
 > 1. [RPA 소개 로드맵 프로젝트](https://github.com/Jeehay28/rpa)
