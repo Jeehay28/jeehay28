@@ -9,7 +9,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeehaypark/)
 
 
-#
+<!-- #
 ### AI Engineer Boot Camp   |   [스마트훈련] 누구나 테크 코스 : AI 엔지니어 부트 캠프
 - Completed with 100% attendance (960 hrs) | 960시간 출석왕 수상
 - 8 projects (Python data analysis and visualization, web programming, RPA)
@@ -45,12 +45,8 @@
 
 #
 ### :clap: Commit Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeehay28&show_icons=true) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeehay28&show_icons=true)  -->
 
 ![codewar](https://www.codewars.com/users/Jeehay28/badges/small)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeehay28&count_bg=%239BE364&title_bg=%2321AB5A&icon=baidu.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
-
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeehay28&count_bg=%239BE364&title_bg=%2321AB5A&icon=baidu.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com) -->
