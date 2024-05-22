@@ -14,6 +14,9 @@
 
 ### 🚀 공공데이터 활용 프로젝트 
 > 1. [산림청 국립수목원 어린이생물도감서비스](https://github.com/Jeehay28/react-app-01)
+> 2. [Landsat imagery(위성영상) 조회 서비스](https://github.com/Jeehay28/react-app-02)
+
+
 <!-- - [Project 2](link): Short description
 - [Project 3](link): Short description -->
 
