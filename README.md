@@ -11,11 +11,19 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeehaypark/)
 
 
+KOREA FOREST SERVICE
 
-### 🚀 공공데이터 활용 프로젝트 
-> 1. [산림청 국립수목원 어린이생물도감서비스](https://github.com/Jeehay28/react-app-01)
-> 2. [Landsat imagery(위성영상) 조회 서비스](https://github.com/Jeehay28/react-app-02)
 
+### 🚀 공공 데이터 활용 프로젝트(Public APIs Utilization Application) 
+> 1. [산림청 국립수목원 어린이생물도감 서비스](https://github.com/Jeehay28/react-app-01)
+    - Utilization of the Korea National Arboretum's Children's Biological Encyclopedia Service
+> 2. [위성영상 조회 서비스](https://github.com/Jeehay28/react-app-02)
+        - Query service for Landsat satellite imagery
+
+
+### 📚 자체 데이터 기반 프로젝트 (Self-Contained Data Application) 
+> 1. [명언 스크롤](https://github.com/Jeehay28/react-app-03)
+    - QuoteScroll
 
 <!-- - [Project 2](link): Short description
 - [Project 3](link): Short description -->
