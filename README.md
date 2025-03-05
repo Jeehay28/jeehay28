@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiepark528@gmail.com)](mailto:sophiepark528@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeehaypark/)
 
-
+<!-- 
 KOREA FOREST SERVICE
 
 
@@ -23,13 +23,13 @@ KOREA FOREST SERVICE
 
 ### 📚 자체 데이터 기반 프로젝트 (Self-Contained Data Application) 
 > 1. [명언 스크롤](https://github.com/Jeehay28/react-app-03)
-    - QuoteScroll
+    - QuoteScroll -->
 
 <!-- - [Project 2](link): Short description
 - [Project 3](link): Short description -->
 
-###
-![codewar](https://www.codewars.com/users/Jeehay28/badges/small)
+<!-- ###
+![codewar](https://www.codewars.com/users/Jeehay28/badges/small) -->
 
 
 <!-- #
