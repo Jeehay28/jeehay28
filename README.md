@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&text=Jeehay%20Park(박지혜)&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Junior%20Frontend%20Developer&descAlignY=70) -->
-
+<!-- 
 ### :smiley: About Jeehay
 "Hi, welcome to my page. According to the six degrees of separation theory, we are all connected within six or fewer social connections. This idea inspired me to venture into the event management industry, where I passionately spent over 10 years engaging with people from all walks of life. Event and meeting management revolve around effective communication. During my journey, I developed a strong interest in the process of creating websites and mobile applications as means of enhancing communication. It took several years for me to make the decision to learn programming languages. Although it may seem unexpected, it is simply a transition in my role. From being a meeting and event planner, I now aspire to become a web and mobile app developer and, ideally, a software engineer dedicated to improving communication."
 
@@ -8,7 +8,7 @@
 
 ### :e-mail: Contact Info
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiepark528@gmail.com)](mailto:sophiepark528@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeehaypark/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeehaypark/) -->
 
 <!-- 
 KOREA FOREST SERVICE
